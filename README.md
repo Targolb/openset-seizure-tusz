@@ -48,9 +48,7 @@ We do **not** redistribute any EEG. Download TUSZ v2.0.3 yourself.
 
 ## 2. EFM checkpoint
 
-Download `week3_mixed_step20000.pt` from the
-[GitHub Releases page](https://github.com/Targolb/openset-seizure-tusz/releases)
-and place it in `checkpoints/`.
+The pretrained EFM checkpoint is available on request.
 
 ## 3. Environment
 
