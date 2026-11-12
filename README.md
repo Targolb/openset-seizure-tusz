@@ -98,7 +98,7 @@ the files in `splits/` are the exact partitions used in the paper.
 ```bibtex
 @inproceedings{bakhtiarvand2027openset,
   title     = {A Benchmark Protocol and Fairness Analysis Towards Open-Set {EEG} Seizure Type Classification},
-  author    = {Bakhtiarvand, Targol and Boult, Terrance E. and Kalita, Jugal and Atyabi, Adham },
+  author    = {Bakhtiarvand, Targol and others},
   booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops},
   year      = {2027}
 }
