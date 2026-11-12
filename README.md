@@ -3,7 +3,7 @@
 Code, subject splits, and evaluation scripts for
 
 > **A Benchmark Protocol and Fairness Analysis Towards Open-Set EEG Seizure Type Classification**
-> Targol Bakhtiarvand et al. WACV 2027 Workshops (CVPath-Vision4Neuro, Evaluations and Datasets Track).
+> Bakhtiarvand, Targol and Boult, Terrance E. and Kalita, Jugal and Atyabi, Adham. WACV 2027 Workshops (CVPath-Vision4Neuro, Evaluations and Datasets Track).
 
 The protocol asks a seizure-type classifier, trained on **known** types, to also
 **reject** seizure types it never saw. It is built on TUSZ v2.0.3 and a pretrained
