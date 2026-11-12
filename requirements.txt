@@ -1,0 +1,11 @@
+# PyTorch 2.3.0 + CUDA 12.1 comes from the Docker base image.
+# mamba-ssm==2.2.2 is installed separately (see Dockerfile; needs CUDA).
+numpy<2.0
+scipy
+scikit-learn
+pandas
+pywavelets
+mne
+matplotlib
+einops
+tqdm
